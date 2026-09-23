@@ -1,5 +1,5 @@
 package com.example.arcane
 
 abstract class Shape(x: Int, y: Int) {
-    val color: String = "blue"
+    val color: String = "Red"
 }
