@@ -1,8 +1,8 @@
-arcane Lab 4 Submission
+arcane Lab 4 Submission  
 
-cvh
-npsuresh
-smallamp
-vyiu2
-rudra6
-garner1
+cvh  
+npsuresh  
+smallamp  
+vyiu2  
+rudra6  
+garner1  
